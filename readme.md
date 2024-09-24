@@ -14,6 +14,7 @@
 <img width="664" alt="스크린샷 2024-09-24 오후 7 28 06" src="https://github.com/user-attachments/assets/9198045a-1304-4855-81b8-284473c81f13">
 
 ## ERD
+<img width="1016" alt="ERD" src="https://github.com/user-attachments/assets/b6bdfea6-4b52-4c92-b62f-bae387532a33">
 
 ## API 명세
 
