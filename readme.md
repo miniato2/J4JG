@@ -17,5 +17,12 @@
 <img width="1016" alt="ERD" src="https://github.com/user-attachments/assets/b6bdfea6-4b52-4c92-b62f-bae387532a33">
 
 ## API 명세
+<details>
+  <img src="https://github.com/user-attachments/assets/7e0c1db6-c9f4-4b48-8364-43806b6f0fca" width="24%" align="top">
+  <img src="https://github.com/user-attachments/assets/64051a7e-8b36-4897-b009-c5cb480a9ce4" width="24%" align="top">
+  <img src="https://github.com/user-attachments/assets/8db47e89-26c6-4e16-8bff-b42868b02895" width="24%" align="top">
+  <img src="https://github.com/user-attachments/assets/b9c295a5-55fb-4eff-a34f-00114c7d9f85" width="24%" align="top">
+  
+</details>
 
 ## 담당 파트
