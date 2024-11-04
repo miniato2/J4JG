@@ -5,6 +5,7 @@
 최신 채용 정보를 확인하고 맘에 드는 공고를 스크랩하며, 맞춤형 멘토링 프로그램을 통해 취업 준비에 필요한 조언을 받을 수 있습니다.
 
 ## 담당 파트
+<img src="https://github.com/user-attachments/assets/e3f8c91c-fd39-4a0a-ac66-546d7eae26cd" height="400">
 
 - 채용정보 크롤링
   - 원티드 사이트의 API를 활용해 실시간으로 채용공고 데이터를 수집하고 Logstash 파이프라인을 통해 ElasticSearch에 저장
